@@ -1,1 +1,2 @@
 This is second basic text file for git testing. As with the first, it was modified on Nov 5.
+This line is being added for master commit prior to branch merge.
