@@ -1,2 +1,0 @@
-This is second basic text file for git testing. As with the first, it was modified on Nov 5.
-s!rP3rciv^l1st
